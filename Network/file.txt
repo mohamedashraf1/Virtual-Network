@@ -1,0 +1,24 @@
+c1 mob   arrives 
+c5 pc   arrives 
+c1 mob Occupied
+c5 pc Occupied
+c4 pc   arrives 
+c4 pc Occupied
+c6 ipad  arrivres and wait 
+c3 pc  arrivres and wait 
+c2 mob  arrivres and wait 
+c5 pc performs online activity
+c4 pc performs online activity
+c5 pc Logged out
+c6 ipad Occupied
+c4 pc Logged out
+c3 pc Occupied
+c1 mob performs online activity
+c3 pc performs online activity
+c3 pc Logged out
+c2 mob Occupied
+c1 mob Logged out
+c2 mob performs online activity
+c6 ipad performs online activity
+c6 ipad Logged out
+c2 mob Logged out
